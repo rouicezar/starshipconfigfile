@@ -1,0 +1,2 @@
+# starshipconfigfile
+starship
